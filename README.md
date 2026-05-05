@@ -10,7 +10,7 @@ Currently working as a Design Engineer at [Sentry](https://sentry.io/). Previous
 
 My passion for building high-polish, delightful devtools is informed by my background in print design, desire to sweat the details, and refusal to settle for tools/experiences that can only be described as &ldquo;good enough&rdquo;.
 
-<a href="https://github.com/sponsors/natemoo-re" title="Sponsor Nate Moore"><img src="/assets/sponsor.svg?sanitize=true" width="94" height="28" aria-hidden="true"></a>
+[`[ 🩷 Sponsor Me ]`](https://github.com/sponsors/natemoo-re)
 
 ---
 
