@@ -6,7 +6,7 @@
 
 Organizer of [Bombshell](https://github.com/bombshell-dev), a community-driven project to build beautiful, intuitive CLI tools that empower fellow creatives.
 
-Currently working as a Design Engineer at [Sentry](https://sentry.io/). Previously, I co-created [Astro](https://github.com/withastro/astro) as a founding engineer at [The Astro Technology Company](https://astro.build/blog/the-astro-technology-company/). Before that, I created [Microsite](https://github.com/natemoo-re/microsite), the first web framework to use [islands architecture](https://www.patterns.dev/vanilla/islands-architecture/).
+Currently working as a Design Engineer at [Sentry](https://sentry.io/). Previously, I co-created [Astro](https://github.com/withastro/astro) as a founding engineer at [The Astro Technology Company](https://astro.build/blog/the-astro-technology-company/) ([acq Cloudflare](https://www.cloudflare.com/press/press-releases/2026/cloudflare-acquires-astro-to-accelerate-the-future-of-high-performance-web-development/)). Before that, I created [Microsite](https://github.com/natemoo-re/microsite), the first web framework to use [islands architecture](https://www.patterns.dev/vanilla/islands-architecture/).
 
 My passion for building high-polish, delightful devtools is informed by my background in print design, desire to sweat the details, and refusal to settle for tools/experiences that can only be described as &ldquo;good enough&rdquo;.
 
